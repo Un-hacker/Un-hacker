@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Un-hacker(Abdul Raheem)
+- 👋 Hi, I’m Abdul Raheem
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning Java Language
 - 💞️ I’m looking to collaborate on any project based on java langauge
